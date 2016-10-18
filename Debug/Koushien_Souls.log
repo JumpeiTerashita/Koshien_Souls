@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Koushien_Souls.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Option.cpp
+  Koshien_sources.cpp
+c:\users\vantan\documents\atelier\children\koushien_souls\koshien_sources.cpp(995): warning C4042: 'BSO': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  コードを生成中...
+  Koushien_Souls.vcxproj -> C:\Users\vantan\Documents\Atelier\Children\Koushien_Souls\Debug\Koshien_Souls.exe
+  Koushien_Souls.vcxproj -> C:\Users\vantan\Documents\Atelier\Children\Koushien_Souls\Debug\Koshien_Souls.pdb (Partial PDB)
